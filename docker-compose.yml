@@ -5,6 +5,6 @@ services:
     environment:
       POSTGRES_USER: "alraedah_user"
       POSTGRES_PASSWORD: "plain_text"
-      POSTGRES_DB: "tadwul"
+      POSTGRES_DB: "graduate"
     ports:
     - "5432:5432"
